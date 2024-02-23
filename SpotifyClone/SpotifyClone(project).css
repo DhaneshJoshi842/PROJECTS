@@ -280,20 +280,3 @@ a {
     display: flex;
     justify-content: space-between;
 }
-
-
-
-
-
-
-/* <div class="mp_right">
-
-        <div class="mpright_icons">
-            <i class="fa-sharp fa-solid fa-circle-play" id="mpright_icon"></i>
-            <i class="fa-solid fa-microphone" id="mpright_icon"></i>
-            <i class="fa-solid fa-bars" id="mpright_icon"></i>
-            <i class="fa-solid fa-volume-high" id="mpright_icon"></i>
-            <input type="range" min="0" max="100" class="mpright_progbtn">
-            <i class="fa-solid fa-up-right-and-down-left-from-center" id="mpright_icon"></i>
-        </div>
-    </div> */
