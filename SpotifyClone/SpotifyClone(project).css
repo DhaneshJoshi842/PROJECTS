@@ -13,7 +13,7 @@ body {
     border-radius: 1rem;
     /* 1rem=16px */
     width: 350px;
-    height: 610px;
+    height: 10rem;
     background-color: black;
 }
 
@@ -22,7 +22,7 @@ body {
     border-radius: 1rem;
     flex: 1;
     /*this prop. is used to cover all the remaining space remain after the spacing of other content*/
-    height: 630px;
+    height: 30.5rem;
     overflow: auto;
     /* auto is used for the use of scroll button if needed */
     background-color: #121212;
@@ -34,7 +34,7 @@ body {
 .musicplayer {
     position: fixed;
     bottom: 0px;
-    width: 100%;
+    width: 75rem;
     height: 72px;
     display: flex;
 }
@@ -64,6 +64,7 @@ body {
 .home {
     padding: 4px 12px;
     margin: 5px;
+    text-decoration: none;
 }
 
 #homeicon {
@@ -129,12 +130,12 @@ a {
 
 .lib2 {
     padding: 5px 8px 8px;
-    height: 435px;
+    height: 295px;
 
 }
 
 .lib2a {
-    height: 133px;
+    height: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -146,7 +147,7 @@ a {
 }
 
 .lib2b {
-    height: 133px;
+    height: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -275,7 +276,7 @@ a {
 
 .mp_right {
     margin-top: 20px;
-    margin-left: 20px;
+    margin-right: 20px;
     width: 280px;
     display: flex;
     justify-content: space-between;
